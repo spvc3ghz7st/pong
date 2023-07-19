@@ -1,1 +1,3 @@
-# pong
+# Pong
+
+## Example Game
